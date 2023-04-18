@@ -1,0 +1,52 @@
+#a{
+    font-family: 'Rubik Wet Paint', cursive;
+ font-size:100px;
+ color:#FFDEB9;
+ background-color:#FC2947 ;
+ text-align: center;
+ 
+}
+
+body{
+    background-color:#7149C6;
+}
+li{
+    font-family: 'Rubik Wet Paint', cursive;
+    color: #FFDEB9;
+    font-size:55px;
+    margin-left: 50px;
+    }
+#c{
+    border: 5px solid red;
+    margin-left: 500px;
+}
+img{
+    height: 300px;
+    width:400px;
+}
+#d{
+    font-family: 'Rubik Wet Paint', cursive;
+    text-align: center;
+    font-size: larger;
+   
+
+}
+#e{
+    margin-left:500px ;
+    border: 5px solid red;
+    margin-top: 80px;
+}
+#f{
+     text-align: center;
+     font-family: 'Rubik Wet Paint', cursive;
+     font-size: larger;
+}
+#y{
+    font: size 100px;
+    color: #F7FF93;
+}
+#t{
+    font: size 100px;
+    color: #F7FF93;
+    margin-top:50px;
+}
